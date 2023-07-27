@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-test10-test
-=======
-test10-main
->>>>>>> main
+window
